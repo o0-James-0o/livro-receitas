@@ -1,4 +1,4 @@
-#Pizza de Frango
+# Pizza de Frango
 
  - 2 xícaras (chá) de açúcar
  - 3 xícaras (chá) de farinha de trigo
@@ -7,7 +7,7 @@
  - 1 e 1/2 xícara (chá) de leite
  - 1 colher (sopa) bem cheia de fermento em pó
 
-##Modo de preparo
+## Modo de preparo
 
  1. Bata as claras em neve e reserve.
 
